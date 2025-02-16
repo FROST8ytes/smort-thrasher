@@ -1,0 +1,3 @@
+[submodule "smort-thrasher-backend"]
+	path = smort-thrasher-backend
+	url = https://github.com/FROST8ytes/smort-thrasher-backend.git
